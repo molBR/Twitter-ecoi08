@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1463419471 source:c:\users\aluno\desktop\twitter 2.0\main.cpp
+	"mensagem.h"
+
+1463420105 c:\users\aluno\desktop\twitter 2.0\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1463419104 source:c:\users\aluno\desktop\twitter 2.0\mensagem.cpp
+	"mensagem.h"
+
