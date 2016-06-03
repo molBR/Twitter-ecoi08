@@ -15,3 +15,24 @@
 	<iostream>
 	<string.h>
 
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\main.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1464955780 c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1464956890 c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.h
+	<iostream>
+	<string.h>
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.cpp
+	"mensagem.h"
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.cpp
+	"usuario.h"
+
+1464957488 source:c:\users\aluno\documents\twitter\twitter-ecoi08\binarioarq.cpp
+

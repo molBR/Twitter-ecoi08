@@ -17,5 +17,4 @@ public:
     void setseguindo(int seguindo);
     void setlogin(char *login);
     void setnome(char *nome);
-
 };
