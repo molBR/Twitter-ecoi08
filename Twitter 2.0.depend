@@ -16,6 +16,7 @@
 	<iostream>
 	<string.h>
 
+<<<<<<< HEAD
 1465561247 source:c:\users\aluno\desktop\twitter 2.0\usuario.cpp
 	"usuario.h"
 
@@ -25,4 +26,26 @@
 
 1465562439 source:c:\users\aluno\desktop\twitter 2.0\cadastro.cpp
 	"cadastro.h"
+=======
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\main.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1464955780 c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1464956890 c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.h
+	<iostream>
+	<string.h>
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.cpp
+	"mensagem.h"
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.cpp
+	"usuario.h"
+
+1464957488 source:c:\users\aluno\documents\twitter\twitter-ecoi08\binarioarq.cpp
+>>>>>>> a4f7aae563003b3b9cae283312db0db0c7b8c210
 

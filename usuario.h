@@ -17,9 +17,12 @@ public:
     void setseguindo(int seguindo);
     void setlogin(char *login);
     void setnome(char *nome);
+<<<<<<< HEAD
     int getid();
     int getseguidores();
     int getseguindo();
     char* getlogin();
     char* getnome();
+=======
+>>>>>>> a4f7aae563003b3b9cae283312db0db0c7b8c210
 };
