@@ -33,3 +33,27 @@ void usuario::setnome(char *nome)
 {
     this->nome = new char [(strlen(nome))];
 }
+
+int usuario::getid()
+{
+    return id;
+}
+int usuario::getseguidores()
+{
+    return seguidores;
+}
+int usuario::getseguindo()
+{
+    return seguindo;
+}
+char* usuario::getlogin()
+{
+    return *&login;
+}
+
+char* usuario::getnome()
+{
+    return *&nome;
+}
+
+

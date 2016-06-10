@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1463421245 source:c:\users\aluno\desktop\twitter 2.0\main.cpp
+1465561535 source:c:\users\aluno\desktop\twitter 2.0\main.cpp
 	"mensagem.h"
 	"usuario.h"
+	"cadastro.h"
 
 1463421863 c:\users\aluno\desktop\twitter 2.0\mensagem.h
 	<iostream>
@@ -11,7 +12,17 @@
 1463420105 source:c:\users\aluno\desktop\twitter 2.0\mensagem.cpp
 	"mensagem.h"
 
-1463422518 c:\users\aluno\desktop\twitter 2.0\usuario.h
+1465561535 c:\users\aluno\desktop\twitter 2.0\usuario.h
 	<iostream>
 	<string.h>
+
+1465561247 source:c:\users\aluno\desktop\twitter 2.0\usuario.cpp
+	"usuario.h"
+
+1465562779 c:\users\aluno\desktop\twitter 2.0\cadastro.h
+	<iostream>
+	<string.h>
+
+1465562439 source:c:\users\aluno\desktop\twitter 2.0\cadastro.cpp
+	"cadastro.h"
 
